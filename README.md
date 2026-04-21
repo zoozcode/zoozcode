@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world! I am zoozcode
+
+![zoozcode](./img/github-header-banner.png)
 
 <!--
 **zoozcode/zoozcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on **@zoozcode**
+- 🌱 I’m currently learning [**reactjs**](https://laravel.com)
+
+![coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN0NnE4Nm1oMXVkaWdqM2k2emtwNGRxazV2MWZmeTdyZ2xtODN6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
