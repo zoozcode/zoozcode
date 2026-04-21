@@ -27,10 +27,33 @@ Here are some ideas to get you started:
 
 
 #### Sosial Media
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 
 ![coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN0NnE4Nm1oMXVkaWdqM2k2emtwNGRxazV2MWZmeTdyZ2xtODN6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
+#### My github star
+
+![zooz GitHub stats](https://github-readme-stats.vercel.app/api?username=zoozcode&show_icons=true&theme=ambient_gradient)
+
+
+### play game
+<img src="https://raw.githubusercontent.com/zoozcode/zoozcode/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+<!-- ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibnu) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zoozcode&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zoozcode&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zoozcode&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=zoozcode&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
